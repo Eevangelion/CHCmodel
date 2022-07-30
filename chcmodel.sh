@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 -W ignore /home/ivan/projects/summer_school/chcmodel/bin/chcmodel/chcmodel.py "$1"
+python3 -W ignore chcmodel/chcmodel.py "$1"
